@@ -18,8 +18,8 @@ email: michael.yan.16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just a bored kid over the break, majoring in Computer Science, trying out Jekyll for the first time.
   I might include a bit of stress-relieving blogging, but probably going to be a portfolio/personal website!
-baseurl: "/PersonalWebsite" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maikhoz
 github_username:  maikhoz
 
